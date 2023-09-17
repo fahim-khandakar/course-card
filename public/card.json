@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/8bgLjGr/Rectangle-2.png",
+    "title": "Python Programming Basics",
+    "description": "A beginner-friendly course to learn the fundamentals of Python programming.",
+    "credit_time": 1,
+    "price": 15000
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/2FLv8Wq/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "A beginner-friendly course to learn the fundamentals of Database (MySQL).",
+    "credit_time": 2,
+    "price": 25000
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/JQJ8Sn1/Rectangle-2-2.png",
+    "title": "Advanced C Programming",
+    "description": "Dive into advanced  topics and develop complex applications with C programming.",
+    "credit_time": 10,
+    "price": 10000
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/L84y14k/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": "Explore the basics of machine learning and data analysis.",
+    "credit_time": 5,
+    "price": 35000
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/47p540J/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Intensive bootcamp to become a C++ programmer.",
+    "credit_time": 5,
+    "price": 19000
+  },
+  {
+    "id": "6",
+    "cover": "https://i.ibb.co/sqQ6V6k/Rectangle-2-5.png",
+    "title": "Data Science with Python",
+    "description": "Learn data science techniques using Python and popular libraries.",
+    "credit_time": 2,
+    "price": 23000
+  },
+  {
+    "id": "7",
+    "cover": "https://i.ibb.co/QrX7wBY/Rectangle-2-6.png",
+    "title": "Mobile App Development.",
+    "description": "Build cross-platform mobile apps using React Native.",
+    "credit_time": 3,
+    "price": 12000
+  },
+  {
+    "id": "8",
+    "cover": "https://i.ibb.co/TKQRzcD/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "Master advanced Data Structures concepts.",
+    "credit_time": 5,
+    "price": 19000
+  },
+  {
+    "id": "9",
+    "cover": "https://i.ibb.co/hVJ8xk5/Rectangle-3-1.png",
+    "title": "Blockchain Basics",
+    "description": "Introduction to blockchain technology and cryptocurrencies.",
+    "credit_time": 4,
+    "price": 25000
+  }
+]
